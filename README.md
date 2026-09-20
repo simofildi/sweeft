@@ -2,7 +2,7 @@
 
 <img src="assets/logo.png" alt="Sweeft logo" width="180"/>
 
-**[�🇧 English](README.md) · [🇮🇹 Italiano](README.it.md)**
+**[🇬🇧 English](README.md) · [🇮🇹 Italiano](README.it.md)**
 
 ### Precision Pharming: from agronomic resilience to clinical Novel Food
 
