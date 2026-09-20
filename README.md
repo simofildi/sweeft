@@ -258,7 +258,10 @@ gantt
 
 ## 📬 Contatti
 
-Interessato a collaborare, investire o co-sviluppare il progetto **Sweeft**? Apri una [Issue](../../issues) o contatta il team.
+Interessato a collaborare, investire o co-sviluppare il progetto **Sweeft**? Apri una [Issue](../../issues) o contatta il team:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Simone%20Saverio%20Fildi-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simone-saverio-fildi/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio%20Emanuele%20Fildi-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-emanuele-fildi/)
 
 <div align="center">
 
