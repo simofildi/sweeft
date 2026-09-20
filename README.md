@@ -2,6 +2,8 @@
 
 <img src="assets/logo.png" alt="Sweeft logo" width="180"/>
 
+**[🇮🇹 Italiano](README.md) · [🇬🇧 English](README.en.md)**
+
 ### Precision Pharming: dalla resilienza agronomica al Novel Food clinico
 
 [![Status](https://img.shields.io/badge/status-R%26D%20pilot-orange)](#-roadmap-operativa)
